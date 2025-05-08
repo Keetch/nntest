@@ -1,7 +1,7 @@
 {
-  "orgName": "denyslukeniuk company",
-  "edition": "Developer",
-  "features": ["EnableSetPasswordInApi"],
+  "orgName": "DLukeniuk",
+  "edition": "Partner Developer",
+  "features": ["EnableSetPasswordInApi", "PersonAccounts", "Communities", "ContactsToMultipleAccounts", "FinancialServicesUser:3"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
